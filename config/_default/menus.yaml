@@ -1,0 +1,29 @@
+leftnav:
+- identifier: d27689f3-c39b-ec61-d721-15d0a5692aee
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 396cbb1e-8fe4-d254-87ea-729feaf8d7d9
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: c9b81a04-e98f-343a-efbc-a52f6f2f923d
+  name: Readings
+  url: /pages/readings
+  weight: 30
+- identifier: e027c781-055f-73c6-1ef9-8478c5a12a71
+  name: Assignments
+  url: /pages/assignments
+  weight: 40
+- identifier: 531515f6-f8d4-5f13-8303-b498fd1137af
+  name: Projects
+  url: /pages/projects
+  weight: 50
+- identifier: 995b2dc7-478d-924f-a0ce-bad20b8aa1a5
+  name: Study Materials
+  url: /pages/study-materials
+  weight: 60
+- identifier: 09b3ab4f-3429-73ce-ea95-ba3dde98f13c
+  name: Related Resources
+  url: /pages/related-resources
+  weight: 70
